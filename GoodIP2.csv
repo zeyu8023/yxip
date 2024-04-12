@@ -1,4 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+IP鍦板潃,绔彛,鍥炴簮绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,TCP寤惰繜(ms),閫熷害(MB/s)
 34.117.254.68,80,80,FALSE,LAX,North America,Los Angeles,213,33.62
 47.91.2.165,80,80,FALSE,NRT,Asia Pacific,Tokyo,73,13.96
 34.120.58.14,80,80,FALSE,LAX,North America,Los Angeles,213,12.95
@@ -42,13 +42,6 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 47.74.13.66,2095,2095,FALSE,NRT,Asia Pacific,Tokyo,70,12.91
 47.245.56.29,2095,2095,FALSE,NRT,Asia Pacific,Tokyo,70,11.87
 47.245.58.175,2095,2095,FALSE,NRT,Asia Pacific,Tokyo,71,11.41
-47.245.37.41,2095,2095,FALSE,NRT,Asia Pacific,Tokyo,70,6.98
-193.123.233.143,2096,80,FALSE,NRT,Asia Pacific,Tokyo,99,4.84
-8.217.85.14,2096,2096,TRUE,HKG,Asia Pacific,Hong Kong,68,4.52
-47.74.34.162,8080,8080,FALSE,NRT,Asia Pacific,Tokyo,66,20.48
-47.245.62.84,8080,8080,FALSE,NRT,Asia Pacific,Tokyo,74,16.2
-47.91.2.165,8080,8080,FALSE,NRT,Asia Pacific,Tokyo,67,15.82
-8.209.222.31,8080,8080,FALSE,NRT,Asia Pacific,Tokyo,67,10.15
 47.245.57.38,8080,8080,FALSE,HKG,Asia Pacific,Hong Kong,147,4.24
 3.35.139.150,8443,443,TRUE,ICN,Asia Pacific,Seoul,59,18.94
 3.38.176.54,8443,443,TRUE,ICN,Asia Pacific,Seoul,59,14.66
@@ -57,11 +50,6 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 192.9.246.112,8443,443,TRUE,SJC,North America,San Jose,216,7.75
 20.250.235.221,8443,443,TRUE,ZRH,Europe,Zurich,230,6.79
 74.226.175.169,8443,443,TRUE,NRT,Asia Pacific,Tokyo,63,6.35
-47.245.4.22,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,147,17.93
-47.245.6.9,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,151,17.64
-47.245.40.55,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,138,15.72
 47.76.146.1,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,104,11.5
-47.91.31.235,8880,8880,FALSE,NRT,Asia Pacific,Tokyo,105,10.12
 47.245.56.29,8880,8880,FALSE,NRT,Asia Pacific,Tokyo,104,10.11
-47.245.59.243,8880,8880,FALSE,NRT,Asia Pacific,Tokyo,104,9.47
 47.91.2.165,8880,8880,FALSE,NRT,Asia Pacific,Tokyo,104,7.02
