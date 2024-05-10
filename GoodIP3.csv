@@ -1,0 +1,29 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+13.201.95.252,8443,443,TRUE,印度,Asia Pacific,Mumbai,167,10.59
+16.162.37.123,443,443,TRUE,HK01,Asia Pacific,Hong Kong,63,28.64
+16.162.10.198,443,443,TRUE,HK02,Asia Pacific,Hong Kong,83,11.57
+8.210.146.108,2083,2083,TRUE,HK03,Asia Pacific,Hong Kong,63,27.35
+8.217.85.14,2083,2083,TRUE,HK04,Asia Pacific,Hong Kong,64,22.3
+8.210.146.108,2083,2083,TRUE,HK05,Asia Pacific,Hong Kong,63,27.35
+8.217.85.14,2083,2083,TRUE,HK06,Asia Pacific,Hong Kong,64,22.3
+8.210.146.108,2087,2087,TRUE,HK07,Asia Pacific,Hong Kong,59,19.98
+8.217.85.14,2087,2087,TRUE,HK08,Asia Pacific,Hong Kong,61,19.56
+8.210.174.156,2087,2087,TRUE,HK09,Asia Pacific,Hong Kong,61,18.69
+8.210.174.156,2096,2096,TRUE,HK10,Asia Pacific,Hong Kong,64,20.3
+47.243.203.119,2096,2096,TRUE,HK11,Asia Pacific,Hong Kong,62,13.81
+15.165.49.161,8080,443,TRUE,韩国,Asia Pacific,Seoul,59,24.8
+154.17.226.170,443,443,TRUE,US01,North America,Los Angeles,152,15.25
+129.146.46.164,443,443,TRUE,US02,North America,Los Angeles,252,12.59
+154.9.207.177,443,443,TRUE,US03,North America,Los Angeles,212,12.51
+154.17.12.26,8080,443,TRUE,US04,North America,Los Angeles,154,14.98
+43.153.181.217,443,443,TRUE,Tokyo01,Asia Pacific,Tokyo,135,13.62
+52.69.227.23,443,443,TRUE,Tokyo02,Asia Pacific,Tokyo,83,11.62
+13.231.123.25,443,443,TRUE,Tokyo03,Asia Pacific,Tokyo,82,9.63
+3.112.20.39,8443,443,TRUE,Tokyo04,Asia Pacific,Tokyo,66,25.62
+35.197.23.75,443,443,TRUE,US05,North America,Seattle,212,9.48
+52.76.201.0,443,443,TRUE,Singapore01,Asia Pacific,Singapore,90,16.67
+52.220.43.42,443,443,TRUE,Singapore02,Asia Pacific,Singapore,83,11.56
+52.220.94.88,443,443,TRUE,Singapore03,Asia Pacific,Singapore,99,10.42
+52.77.245.98,8443,443,TRUE,Singapore04,Asia Pacific,Singapore,93,18.04
+43.153.103.203,443,443,TRUE,US06,North America,San Jose,236,10.35
+54.183.80.85,2053,443,TRUE,US07,North America,San Jose,206,8.68
